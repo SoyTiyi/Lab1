@@ -22,3 +22,7 @@ Materias que veo:
  4. ***Fundamentos de Gerencia de Proyectos FDGP***
  5. ***Cine CLYS***
 
+Mi github es el siguiente 
+[Sigueme en GitHub](https://github.com/SoyTiyi)
+![Img GITHUB](https://www.trecebits.com/wp-content/uploads/2019/11/GITHUB.jpg)
+
