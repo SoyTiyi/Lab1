@@ -26,3 +26,9 @@ Mi github es el siguiente
 [Sigueme en GitHub](https://github.com/SoyTiyi)
 ![Img GITHUB](https://www.trecebits.com/wp-content/uploads/2019/11/GITHUB.jpg)
 
+'
+function HelloWorld(){
+	console.log("Hello world");
+}
+
+'
