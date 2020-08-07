@@ -35,5 +35,6 @@ function HelloWorld(){
 Learning git 
 
 1. Primer parte: 
-![Primera Parte](/Image/Captura1Santiago.png)
-![Segunda Parte](/Image/Captura2Santiago.png)
+![Primera Parte](Image/Captura1Santiago.png)
+2. Segunda parte:
+![Segunda Parte](Image/Captura2Santiago.png)
