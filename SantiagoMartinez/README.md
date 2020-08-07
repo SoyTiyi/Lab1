@@ -30,5 +30,10 @@ Mi github es el siguiente
 function HelloWorld(){
 	console.log("Hello world");
 }
-
 ~~~
+
+Learning git 
+
+1. Primer parte: 
+![Primera Parte](/Image/Captura1Santiago.png)
+![Segunda Parte](/Image/Captura2Santiago.png)
