@@ -33,3 +33,6 @@ public static void main(String args[])
         System.out.println("Hola Mundo");
     }
 ~~~
+### Learn GIT
+![PRINCIPAL](./Img/Principal.PNG)
+![Remota](./Img/REMOTA.PNG)
