@@ -34,5 +34,5 @@ public static void main(String args[])
     }
 ~~~
 ### Learn GIT
-![PRINCIPAL](./Img/Principal.PNG)
+![PRINCIPAL](./Img/PRINCIPAL.PNG)
 ![Remota](./Img/REMOTA.PNG)
